@@ -1,0 +1,889 @@
+
+@media (min-width:1200px){
+    .Container{
+        max-width: 94%;
+        margin: 0 auto;
+    }
+    .contact_btn .toggle_bar{
+        display: none;
+    }
+    /* Our Provided Services section Start */
+    .services_item{
+        width: calc(33.33% - 48px);
+        margin: 0 auto;
+    }
+    /* Our Provided Services section End */
+    /* Our Recent Work section start */
+    .recent_task{
+        gap:24px;
+        flex-wrap: wrap;
+        padding-bottom: 217px;
+     }
+     .work{
+        width:calc(33.33% - 48px);
+        margin: 0 auto;
+     }
+    /* Our Recent Work section end */
+    /* Choose Agenc section start */
+    /* .choose_left{
+        column-gap: 40px;
+        row-gap: 30px;
+     }
+     .choose_left .choose_item{
+        width:calc(50% - 40px);
+         margin: 0 auto;
+     } */
+    /* Choose Agenc section end */
+    /* Client Reviews  section start */
+    #client_reviews{
+        padding-top: 100px;
+    }
+    /* Client Reviews  section end */
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .Container{
+        max-width: 94%;
+        margin: 0 auto;
+    }
+    .contact_btn .toggle_bar{
+        display: none;
+    }
+    /* Our Success section start */
+    .our_success .left h2{
+        font-size: 35px;
+        font-weight: 700;
+        width: 400px;
+     }
+     .our_success .right .item h3{
+        font-size:40px ;
+        font-weight: 800;
+        padding-bottom: 10px;
+     }
+     .our_success .right .item p{
+        font-size:16px ;
+        font-weight: 400;
+        max-width: 100px;
+     }
+    /* Our Success section start */
+
+    /* Our Provided Services section Start */
+    .services_item{
+        width: calc(33.33% - 48px);
+        margin: 0 auto;
+    }
+    /* Our Provided Services section End */
+    /* Our Recent Work section start */
+    .recent_task{
+        gap:24px;
+        flex-wrap: wrap;
+        padding-bottom: 217px;
+     }
+     .work{
+        width:calc(33.33% - 48px);
+        margin: 0 auto;
+     }
+    /* Our Recent Work section end */
+    /* Choose Agenc section start */
+     .choose_left{
+        column-gap: 40px;
+        row-gap: 30px;
+     }
+     .choose_left .choose_item{
+        width:calc(50% - 40px);
+         margin: 0 auto;
+     }
+    /* Choose Agenc section end */
+
+    /* Client Reviews  section start */
+    #client_reviews{
+        padding-top: 100px;
+    }
+    /* Client Reviews  section end */
+
+    /* Footer section start */
+     .footer_right_side{
+        gap:110px;
+     }
+     .footer_details{
+        margin: 0 auto;
+     }
+    /* Footer section end */
+}
+
+@media (min-width:769px) and (max-width:991.98px) {
+    .Container{
+        max-width: 94%;
+        margin: 0 auto;
+    }
+    .contact_btn .toggle_bar{
+        display: none;
+    }
+    /* Our Success section start */
+    .our_success{
+        gap: 20px;
+     }
+    .our_success .left p{
+        font-size: 16px;
+        font-weight: 400;
+        padding-bottom: 10px;
+    }
+    .our_success .left h2{
+        font-size: 30px;
+        font-weight: 600;
+        width: 300px;
+     }
+     .our_success .right{
+        max-width: 100%;
+        gap: 20px;
+     }
+     .our_success .right .item h3{
+        font-size:30px ;
+        font-weight: 800;
+        padding-bottom: 10px;
+        max-width: 160px;
+     }
+     .our_success .right .item p{
+        font-size:15px ;
+        font-weight: 500;
+        text-align: left;
+        width: 100px;
+     }
+     /* Our Success section end */
+
+     /* Our Provided Services section Start */
+     .services h2{
+        font-size: 50px;
+     }
+     .services p{
+        width: 70%;
+        margin: 0 auto;
+        padding-bottom: 50px;
+     }
+    .services_container{
+        gap: 24px;
+        padding-bottom: 170px;
+        flex-wrap: wrap;
+    }
+    .services_item{
+        width: calc(50% - 48px);
+        margin: 0 auto;
+     }
+     /* Our Provided Services section End */
+     /* Our Recent Work section start */
+    .recent_task{
+        gap:24px;
+        flex-wrap: wrap;
+        padding-bottom: 217px;
+     }
+     .work{
+        width:calc(50% - 48px);
+        margin: 0 auto;
+     }
+     .recent_work p{
+        width: 100%;
+        margin: 0 auto;
+        padding-bottom: 50px;
+     }
+     .recent_work h2{
+        font-size: 40px;
+     }
+    /* Our Recent Work section end */
+
+    /* Choose Agenc section start */
+    .choose_agenc h2{
+        width: 100%;
+        margin: 0 auto;
+     }
+     .choose_agenc p{
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-bottom: 130px;
+     }
+     .choose_left{
+        column-gap: 40px;
+        row-gap: 30px;
+     }
+     .choose_left .choose_item{
+        width:calc(50% - 40px);
+         margin: 0 auto;
+     }
+     .choose_left .choose_item h3{
+        font-size: 18px;
+     }
+     .choose_left .choose_item p{
+        font-size: 14px;
+     }
+    /* Choose Agenc section end */
+
+    /* Client Reviews  section start */
+       #client_reviews{
+        padding-top: 80px;
+    }
+    /* Client Reviews  section end */
+
+    /* Get a free quote now section start */
+    .free_quote{
+        /* flex-direction: column; */
+        gap: 20px;
+     }
+     .left_header_part h2{
+        font-size: 40px;
+        width:100%;
+     }
+     .left_header_part p{
+        width: 60%;
+     }
+     .left_header_part .p{
+        width: 60%;
+        padding-bottom: 200px;
+     }
+     .free_quote .form_part{
+        width: 100%;
+        margin: 0 auto;
+     }
+     .free_quote .form_part form h2{
+        font-size: 30px;
+     }
+    /* Get a free quote now section end */
+    /* Footer section start */
+    .footer{
+        flex-direction: column;
+     }
+     .footer_left_side p{
+        max-width: 100%;
+     }
+     .footer_right_side{
+        gap: 35px;
+        flex-wrap: wrap;
+     }
+     .footer_details{
+        margin: 0 auto;
+     }
+    /* Footer section end */
+}
+
+@media (min-width:576px) and (max-width:768.98px) {
+    .Container{
+        max-width: 94%;
+        margin: 0 auto;
+    }
+    .menu ul{
+        display: none;
+    }
+    .contact_btn .btn{
+        display: none;
+    }
+    .header h1{
+        max-width:90%;
+        font-size: 50px;
+        font-weight: 800;
+        line-height: 70px;
+        z-index: 2;
+        margin: 0 auto;
+    }
+    .header_text p{
+        max-width:58%;
+        margin: 0 auto;
+    }
+    /* Our Success section start */
+    #our_success{
+        padding-top: 50px;
+     }
+     .our_success{
+        flex-direction: column;
+        gap: 10px;
+    }
+    .our_success .right{
+        flex-direction: row;
+         gap: 30px;
+         align-items: center;
+         padding-top:20px ;
+         padding-left: 50px;
+         padding-bottom: 50px;
+      }
+      .our_success .left{
+        max-width: 100%;
+        padding:20px 0;
+        padding-left: 50px;
+        margin-left: 0px;
+     }
+     .our_success .left p{
+        font-size: 16px;
+        font-weight: 400;
+        padding-bottom: 10px;
+     }
+     .our_success .right{
+        gap: 10px;
+        padding-top:40px ;
+        max-width: 100%;
+     }
+     .our_success .right .item h3{
+        font-size:35px ;
+        font-weight: 700;
+        padding-bottom: 10px;
+     }
+     .our_success .right .item p{
+        font-size:15px ;
+        font-weight: 400;
+        max-width: 150px;
+     }
+     /* Our Success section end */
+
+     /* Our Provided Services section Start */
+     .services h2{
+        font-size: 30px;
+     }
+     .services p{
+        width: 100%;
+        margin: 0 auto;
+        padding-bottom: 60px;
+     }
+    .services_container{
+        gap: 24px;
+        padding-bottom: 170px;
+        flex-wrap: wrap;
+    }
+    .services_item{
+        width: calc(50% - 48px);
+        margin: 0 auto;
+     }
+     /* Our Provided Services section End */
+     /* Our Recent Work section start */
+    .recent_task{
+        gap:24px;
+        flex-wrap: wrap;
+        padding-bottom: 217px;
+     }
+     .work{
+        width:calc(50% - 48px);
+        margin: 0 auto;
+     }
+     .recent_work p{
+        width: 100%;
+        margin: 0 auto;
+        padding-bottom: 50px;
+     }
+     .recent_work h2{
+        font-size: 40px;
+     }
+    /* Our Recent Work section end */
+
+    /* Choose Agenc section start */
+    .choose_agenc h2{
+        width: 100%;
+        margin: 0 auto;
+     }
+     .choose_agenc p{
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-bottom: 50px;
+     }
+     .choose_container{
+        flex-direction: column;
+     }
+     .choose_left{
+        column-gap: 50px;
+        row-gap: 80px;
+     }
+     .choose_left .choose_item{
+        width:calc(50% - 50px);
+         margin: 0 auto;
+     }
+     .choose_right figure{
+        margin: 0 auto;
+     }
+    /* Choose Agenc section end */
+    /* Client Reviews  section start */
+    #client_reviews{
+        /* padding-bottom: 227px; */
+        padding-top: 80px;
+     }
+     .client_reviews h2{
+        font-size: 25px;
+     }
+     .client_reviews p{
+        width:100%;
+        margin: 0 auto;
+        padding-bottom: 50px;
+     }
+    .client_reviews_part{
+        flex-direction: column;
+     }
+     .part{
+        width: 100%;
+        margin: 0 auto;
+     }
+    /* Client Reviews  section end */
+
+    /* Get a free quote now section start */
+    .free_quote{
+        flex-direction: column;
+        gap: 20px;
+     }
+     .left_header_part h2{
+        font-size: 35px;
+        width:70%;
+        padding-top: 50px;
+     }
+     .left_header_part p{
+        width: 80%;
+     }
+     .left_header_part .p{
+        width: 80%;
+        padding-bottom: 0px;
+     }
+     .free_quote .form_part{
+        width: 80%;
+        margin: 0 auto;
+     }
+     .free_quote .form_part form h2{
+        font-size: 25px;
+     }
+    /* Get a free quote now section end */
+
+    /* Footer section start */
+    .footer{
+        flex-direction: column;
+     }
+     .footer_left_side p{
+        max-width: 100%;
+     }
+     .footer_right_side{
+        gap: 35px;
+        cursor: pointer;
+        flex-wrap: wrap;
+     }
+     .footer_details{
+        margin: 0 auto;
+     }
+    /* Footer section end */
+}
+
+@media (min-width:321px) and (max-width:575.98px) {
+    .Container{
+        max-width: 94%;
+        margin: 0 auto;
+    }
+    .menu ul{
+        display: none;
+    }
+    .contact_btn .btn{
+        display: none;
+    }
+    .contact_btn .toggle_bar{
+        max-width: 100px;
+        height: 40px;
+        margin-right: 10px;
+     }
+     .header h1{
+        max-width:100%;
+        font-size: 35px;
+        font-weight: 800;
+        line-height: 60px;
+        z-index: 2;
+        margin: 0 auto;
+     }
+     .header_text p{
+         max-width: 78%;
+         margin: 0 auto;
+        }
+     #banner{
+        padding-top: 200px;
+        background-size: cover;
+    }
+    /* Our Success section start */
+    #our_success{
+        padding-top: 50px;
+     }
+    .our_success{
+        flex-direction: column;
+        gap: 10px;
+    }
+    .our_success .left{
+        max-width: 100%;
+        padding:20px 0;
+        padding-left: 40px;
+        margin-left: 0px;
+     }
+    .our_success .right{
+       flex-direction: column;
+        gap: 50px;
+        justify-content: none;
+        padding-top:20px ;
+        padding-left: 40px;
+        padding-bottom: 30px;
+        max-width: 100%;
+     }
+    .our_success .left p{
+        font-size: 16px;
+        font-weight: 400;
+        padding-bottom: 10px;
+    }
+    .our_success .left h2{
+        font-size: 35px;
+        font-weight: 600;
+     }
+     .our_success .right .item h3{
+        font-size:40px ;
+        font-weight: 600;
+        padding-bottom: 10px;
+     }
+     .our_success .right .item p{
+        font-size:20px ;
+        font-weight: 400;
+        width: 200px;
+     }
+    /* Our Success section start */
+
+    /* Our Provided Services section Start */
+    .services h2{
+        font-size: 30px;
+     }
+     .services p{
+        width: 100%;
+        margin: 0 auto;
+        padding-bottom: 30px;
+     }
+    .services_container{
+        flex-direction: column;
+        gap: 24px;
+        padding-bottom: 170px;
+     }
+     .services_item{
+        width: 100%;
+        margin: 0 auto;
+     }
+    /* Our Provided Services section End */
+    /* Our Recent Work section start */
+    .recent_task{
+        flex-direction: column;
+        gap:24px;
+        flex-wrap: wrap;
+        padding-bottom: 217px;
+     }
+     .work{
+        width:100%;
+     }
+     .recent_work p{
+        width: 100%;
+        margin: 0 auto;
+        padding-bottom: 50px;
+     }
+     .recent_work h2{
+        font-size: 35px;
+     }
+    /* Our Recent Work section end */
+    /* Choose Agenc section start */
+    .choose_agenc h2{
+        font-size: 35px ;
+        width: 90%;
+        margin: 0 auto;
+     }
+     .choose_agenc p{
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-bottom: 50px;
+     }
+     .choose_container{
+        flex-direction: column;
+     }
+     .choose_left{
+        column-gap: 50px;
+        row-gap: 80px;
+     }
+     .choose_left .choose_item{
+        width:calc(50% - 50px);
+         margin: 0 auto;
+     }
+     .choose_right figure{
+        width: 80%;
+        margin: 0 auto;
+     }
+    /* Choose Agenc section end */
+
+     /* Client Reviews  section start */
+     #client_reviews{
+        /* padding-bottom: 227px; */
+        padding-top: 80px;
+     }
+     .client_reviews h2{
+        font-size: 25px;
+     }
+     .client_reviews p{
+        width:100%;
+        margin: 0 auto;
+        padding-bottom: 30px;
+     }
+    .client_reviews_part{
+        flex-direction: column;
+        gap: 24px;
+        border-radius: 20px;
+        position: relative;
+     }
+     .part{
+        width: 100%;
+        margin: 0 auto;
+     }
+    /* Client Reviews  section end */
+
+    /* Get a free quote now section start */
+    .free_quote{
+        flex-direction: column;
+        gap: 20px;
+     }
+     .left_header_part h2{
+        font-size: 30px;
+        width:80%;
+        padding-top: 50px;
+     }
+     .left_header_part p{
+        width: 100%;
+     }
+     .left_header_part .p{
+        width: 100%;
+        padding-bottom: 0px;
+     }
+     .free_quote .form_part{
+        width: 100%;
+        margin: 0 auto;
+     }
+     .free_quote .form_part form h2{
+        font-size: 25px;
+     }
+    /* Get a free quote now section end */
+    /* Footer section start */
+    .footer{
+        flex-direction: column;
+     }
+     .footer_left_side p{
+        max-width: 100%;
+     }
+     .footer_right_side{
+        gap: 35px;
+        cursor: pointer;
+        flex-wrap: wrap;
+     }
+     .footer_details{
+        width: calc(50% - 35px);
+        margin: 0 auto;
+     }
+    /* Footer section end */
+}
+
+
+@media (max-width:320px) {
+    /* Banner Section Start  */
+    .Container{
+        width: 300px;
+        margin: 0 auto;
+    }
+    .menu ul{
+        display: none;
+    }
+    .contact_btn .btn{
+     display: none;
+    }
+    #banner{
+        padding-top: 170px;
+    }
+    .header h1{
+        font-size: 35px;
+        font-weight: 800;
+        line-height: 60px;
+        z-index: 2;
+        max-width:95%;
+        margin: 0 auto;
+    }
+    .header_text p{
+        max-width: 90%;
+        margin: 0 auto;
+    }
+    .contact_btn .toggle_bar{
+        max-width: 80px;
+        height: 40px;
+        margin-right: 10px;
+    }
+    /* Banner Section  end */
+    /* Our Success section start */
+    #our_success{
+        padding-top: 40px;
+        padding-bottom: 50px;
+     }
+    .our_success{
+        flex-direction: column;
+        gap: 10px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .our_success .left{
+        max-width: 100%;
+       padding:20px 0;
+       margin-left: 0px;
+       padding-left: 40px;
+     }
+    .our_success .right{
+       flex-direction: column;
+        gap: 30px;
+        align-items: center;
+        max-width: 75%;
+        padding-top:10px ;
+        padding-left: 40px;
+        padding-right: 0px;
+        padding-bottom: 30px;
+     }
+    .our_success .left p{
+        font-size: 16px;
+        font-weight: 400;
+        padding-bottom: 10px;
+    }
+    .our_success .left h2{
+        font-size: 20px;
+        font-weight: 500;
+     }
+     .our_success .right .item h3{
+        font-size:30px ;
+        font-weight: 600;
+        padding-bottom: 10px;
+     }
+     .our_success .right .item p{
+        font-size:15px ;
+        font-weight: 400;
+     }
+    /* Our Success section start */
+
+    /* Our Provided Services section Start */
+    .services h2{
+        font-size: 25px;
+     }
+     .services p{
+        width: 100%;
+        margin: 0 auto;
+        padding-bottom: 30px;
+     }
+    .services_container{
+        flex-direction: column;
+        gap: 24px;
+        padding-bottom: 170px;
+     }
+     .services_item{
+     width: 100%;
+     }
+    /* Our Provided Services section End */
+    /* Our Recent Work section start */
+    .recent_task{
+        flex-direction: column;
+        gap:24px;
+        flex-wrap: wrap;
+        padding-bottom: 40px;
+     }
+     .work{
+        width:100%;
+     }
+     .recent_work p{
+        width: 100%;
+        margin: 0 auto;
+        padding-bottom: 50px;
+     }
+     .recent_work h2{
+        font-size: 30px;
+     }
+    /* Our Recent Work section end */
+    /* Choose Agenc section start */
+    .choose_agenc h2{
+        font-size: 25px ;
+        width: 80%;
+        margin: 0 auto;
+     }
+     .choose_agenc p{
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-bottom: 50px;
+     }
+     .choose_container{
+        flex-direction: column;
+     }
+     .choose_left .choose_item{
+        width:100%;
+        margin: 0 auto;
+     }
+     .choose_right figure{
+        width: 100%;
+     }
+    /* Choose Agenc section end */
+
+    /* Client Reviews  section start */
+    #client_reviews{
+        /* padding-bottom: 227px; */
+        padding-top: 80px;
+     }
+     .client_reviews h2{
+        font-size: 25px;
+     }
+     .client_reviews p{
+        width:100%;
+        margin: 0 auto;
+        padding-bottom: 30px;
+     }
+    .client_reviews_part{
+        flex-direction: column;
+        gap: 24px;
+        border-radius: 20px;
+        position: relative;
+     }
+     .part{
+        width: 100%;
+     }
+    /* Client Reviews  section end */
+
+    /* Get a free quote now section start */
+    .free_quote{
+        flex-direction: column;
+        gap: 20px;
+     }
+     .left_header_part h2{
+        font-size: 25px;
+        width:100%;
+        padding-top: 50px;
+     }
+     .left_header_part p{
+        width: 100%;
+     }
+     .left_header_part .p{
+        width: 100%;
+        padding-bottom: 0px;
+     }
+     .free_quote .form_part{
+        width: 100%;
+        margin: 0 auto;
+     }
+     .free_quote .form_part form h2{
+        font-size: 20px;
+     }
+    /* Get a free quote now section end */
+
+    /* Footer section start */
+    .footer{
+        flex-direction: column;
+     }
+     .footer_left_side p{
+        max-width: 100%;
+     }
+     .footer_right_side{
+        gap: 35px;
+        cursor: pointer;
+        flex-wrap: wrap;
+     }
+     .footer_details{
+        width: calc(50% - 35px);
+        margin: 0 auto;
+     }
+     .footer_right_side .footer_details a{
+        font-size: 13px;
+     }
+    /* Footer section end */
+}
